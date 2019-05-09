@@ -37,6 +37,7 @@ Find out if the following predictive modelling phase will be successful!
   + Scale to [0,1] or normalize (mean=0, std=1) or Robust / Quantile Scaling
   + One-hot encoding, Label Encoding (0,1,2,3)
   + Create log-transformed versions for highly skewed variables
-  + Create bucketized versions for variables
+  + Create binned versions for variables
   + Combine categories for highly skewed categorical variables
-
+  + Create sum/difference/product/quotient of variables
+  + Create polynomial features
