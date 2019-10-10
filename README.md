@@ -1,7 +1,7 @@
 #### Explorative Data Analysis 
 
 Get data into a usable format!  
-Find out if the following predictive modelling phase will be successful!  
+Find out if the following predictive modeling phase will be successful!  
 
 + Combine everything into a single big table
   + Convert files to .csv
