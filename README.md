@@ -10,6 +10,9 @@ Find out if the following predictive modeling phase will be successful!
   + Clean column names (english, no whitespace, no special chars)
   + Are there duplicate columns?
   + Fix datatypes (datetime, int, float, string)
++ Look at the raw data
+  + Sort data
+  + Filter data by various criteria
 + Investigation
   + Non-sensical observations/artifacts?
   + Coding of categorical features?
