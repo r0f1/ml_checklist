@@ -44,3 +44,16 @@ Find out if the following predictive modeling phase will be successful!
   + Combine categories for highly skewed categorical variables
   + Create sum/difference/product/quotient of variables
   + Create polynomial features
+
+
+#### Deep Learning Tasks
+
++ Storing training data (browsable training data catalog)
++ Storing ground-truth annotations (when, by whom, which annotation guidelines)
++ Pre-processing steps
++ Training: Architecture + Loss function + Learning algorithm
++ Storing models and possibly ancestors (in-case not training from scratch)
++ Storing training hyperparameters, training environment (installed packages, CUDA drivers, VM machine images)
++ Storing loss function history and final performance metrics on test set.
++ Tools: Weights and Biases, Neptune, Iterative
+
